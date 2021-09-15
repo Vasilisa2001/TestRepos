@@ -1,1 +1,4 @@
-print("Hello")
+import function
+
+
+print(function.hello())
